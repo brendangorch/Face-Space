@@ -19,20 +19,16 @@ A 2D bullet hell game with fast-paced combat and score tracking.
 
 ## Survive Waves of Increasing Difficulty
 <br />
-
 ![wave1](https://github.com/user-attachments/assets/bb518c38-ac1b-46e7-b0f4-f3cca8a2072c)
-
 <br />
-
-Wave 2 video
-
+![wave2](https://github.com/brendangorch/Face-Space/blob/main/wave2.gif)
 <br />
 <br />
 
 ## Use your Abilities
 If things are getting overwhelming, use right mouse-click to cause an explosion that clears the screen. But be careful, you can only use this ability once.
 <br />
-Wave 1 video
+![ability](https://github.com/brendangorch/Face-Space/blob/main/ability.gif)
 <br />
 <br />
 
