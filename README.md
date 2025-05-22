@@ -18,7 +18,7 @@ A 2D bullet hell game with fast-paced combat and score tracking.
 
 ## Survive Waves of Increasing Difficulty
 <br />
-Wave 1 video
+![Image](https://github.com/user-attachments/assets/bb518c38-ac1b-46e7-b0f4-f3cca8a2072c)
 <br />
 Wave 2 video
 <br />
